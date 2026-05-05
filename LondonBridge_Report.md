@@ -1,4 +1,4 @@
-# London Bridge – Full Professional Penetration Test Report (Complete Commands)
+# London Bridge
 
 ## 1. Executive Summary
 
