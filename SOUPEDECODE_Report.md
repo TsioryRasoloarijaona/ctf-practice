@@ -1,4 +1,4 @@
-# SOUPEDECODE – Professional Penetration Test Report
+# SOUPEDECODE
 
 ## 1. Executive Summary
 
