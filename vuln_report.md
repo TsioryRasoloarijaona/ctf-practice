@@ -1,4 +1,3 @@
-# Professional Penetration Test Report
 ## Internal Infrastructure Compromise (NFS → Redis → rsync → TeamCity → Root)
 
 ---
